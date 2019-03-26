@@ -39,6 +39,6 @@ def get_occupation(data, hometown)
 end
 
 def get_average_age_for_season(data, season)
-  age_num = 0 
-  
+  age_total = 0 
+  contestant_total = 
 end
